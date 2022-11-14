@@ -1,5 +1,5 @@
 <h1>Heyyy ,  myself vivek</h1> 
-a final year student of diploma in computer science and engineering.              
+I am a final year student of diploma in computer science and engineering.              
 <br>🔰 Likes to know more about A.I , M.L and Web development.
 <br>📫 IG : vivekthakur.exe
 <h1> Languages I like </h1>
