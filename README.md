@@ -4,6 +4,6 @@ I am a final year student of diploma in computer science and engineering.
 <br>📫 IG : vivekthakur.exe
 <h1> Languages I like </h1>
 <div style="display:flex">
-<img src="js.png" width="35px">
+
 <img src="py.png" width="35px">
 </div>
