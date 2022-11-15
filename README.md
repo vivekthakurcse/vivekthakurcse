@@ -5,10 +5,9 @@
 <div style="display:flex"></div>
 <h1> Languages I like </h1>
 <div style="display:flex">
+<img src="java.png" width="60px" style="padding:30px">
+<img src="cpp.png" width="45px" style="padding:30px">
+<img src="py.png" width="40px" style="padding:30px">
 <img src="Daco.png" width="80px">
 <img src="js.png" width="45px">
-<img src="cpp.png" width="45px" style="padding:30px">
-
-<img src="py.png" width="40px" style="padding:30px">
-<img src="java.png" width="60px" style="padding:30px">
 </div>
