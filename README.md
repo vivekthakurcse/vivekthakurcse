@@ -8,12 +8,12 @@
 
 <img src="Daco.png" width="80px">
 <img src="js.png" width="45px">
-<img src="Bootstrap_logo.svg.png" width="55px">
+<img src="Bootstrap_logo.svg.png" width="50px">
 </div>
 <div style="display:flex">
 <img src="java.png" width="45px" style="padding:30px">
 
 <img src="cpp.png" width="45px" style="padding:30px">
 
-<img src="py.png" width="40px" style="padding:30px">
+<img src="py.png" width="45px" style="padding:30px">
 </div>
