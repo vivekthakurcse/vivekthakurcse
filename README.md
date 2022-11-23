@@ -2,8 +2,8 @@
 <p>I am a final year student of diploma in computer science and engineering.         
 <br>A nerdy boy who likes to know more about A.I , M.L and Web development.
 <br> My IG : vivekthakur.exe</p>
-<div style="display:flex"></div>
-<h1> Languages I like </h1>
+<div style="display:flex">
+<h1> Languages & Tools </h1>
 <div style="display:flex">
 <img src="java.png" width="45px" style="padding:30px">
 <img src="cpp.png" width="45px" style="padding:30px">
