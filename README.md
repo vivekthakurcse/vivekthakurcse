@@ -11,7 +11,7 @@
 <img src="Bootstrap_logo.svg.png" width="50px">
 </div>
 <div style="display:flex">
-<img src="java.png" width="60px" height="60px"style="padding:30px">
+<img src="java.png" width="60px" height="60px">
 
 <img src="cpp.png" width="45px" style="padding:30px">
 
