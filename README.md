@@ -1,7 +1,7 @@
 <h1>Heyyy ,  Myself Vivek</h1> 
 <p>I am a final year student of diploma in computer science and engineering.         
 <br>A nerdy boy who likes to know more about A.I , M.L and Web development.
-<br> My IG : vivekthakur.exe</p>
+<br> My IG : <a href="https://www.instagram.com/vivekthakur.exe/">@vivekthakur.exe</p>
 
 <div style="display:flex">
 <h1> Languages & Tools </h1>
