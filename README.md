@@ -16,6 +16,6 @@
 <div style="display:flex">
 <img src="C_Programming_Language.svg" width="45px">
 <img src="cpp.png" width="55px" height="55px">
-<img src="java.png" width="55px" height="55px">
+<img src="java.png" width="65px" height="65px">
 <img src="py.png" width="45px">
 </div>
