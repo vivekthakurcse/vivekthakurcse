@@ -3,9 +3,7 @@
 <br>A nerdy boy who likes to know more about A.I , M.L and Web development.
 <br> IG : <a href="https://www.instagram.com/vivekthakur.exe/">@vivekthakur.exe</p>
 
-<div style="display:flex">
-<h1> Languages & Tools </h1>
-</div>
+<div style="display:flex"><h1>Languages & Tools</h1></div>
 
 <div style="display:flex">
 <img src="Daco.png" width="80px">
@@ -20,4 +18,3 @@
 <img src="java.png" width="55px" height="55px">
 <img src="py.png" width="45px">
 </div>
-
