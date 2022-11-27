@@ -11,6 +11,7 @@
 <img src="Daco.png" width="80px">
 <img src="js.png" width="45px">
 <img src="Bootstrap_logo.svg.png" width="50px">
+<img src="React-icon.svg" width="50px">
 </div>
 
 
