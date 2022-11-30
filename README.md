@@ -3,7 +3,7 @@
 <br>A nerdy boy who likes to know more about A.I , M.L and Web development.
 <br> IG : <a href="https://www.instagram.com/vivekthakur.exe/">@vivekthakur.exe</p>
 
-<div style="display:flex"><h1>Languages & Tools</h1></div>
+<div style="display:flex"><h1>Languages & Skills</h1></div>
 
 <div style="display:flex">
 <img src="Daco.png" width="80px">
@@ -23,7 +23,6 @@
 <div style="display:flex"><h1>My Tools</h1></div>
 <div style="display:flex">
 <img src="VS_Code.png" width="45px">
-<img src="cpp.png" width="55px" height="45px">
-<img src="Git_icon.svg.png" width="65px" height="55px">
-<img src="py.png" width="45px">
+<img src="github.svg" width="45px" height="45px">
+<img src="Git_icon.svg.png" width="45px" height="45px">
 </div>
