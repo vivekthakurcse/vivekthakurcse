@@ -24,6 +24,6 @@
 <div style="display:flex">
 <img src="VS_Code.png" width="45px">
 <img src="cpp.png" width="55px" height="45px">
-<img src="Git_icon.svg.png" width="65px" height="45px">
+<img src="Git_icon.svg.png" width="65px" height="55px">
 <img src="py.png" width="45px">
 </div>
