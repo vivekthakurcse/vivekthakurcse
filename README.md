@@ -2,7 +2,7 @@
 <p>I am a final year student of diploma in computer science and engineering.         
 <br>A nerdy boy who likes to know more about A.I , M.L and Web development.
 <br> IG : <a href="https://www.instagram.com/vivekthakur.exe/">@vivekthakur.exe</p>
-<p> Email : vivek1kumar2thakur@gmail.com</p>
+
 
 
 <div style="display:flex"><h1>Languages & Skills</h1></div>
