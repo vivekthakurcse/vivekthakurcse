@@ -25,6 +25,7 @@
 <div style="display:flex"><h1>My Tools</h1></div>
 <div style="display:flex">
 <img src="VS_Code.png" width="45px">
-<img src="github.svg" width="45px" height="45px">
+
 <img src="Git_icon.svg.png" width="45px" height="45px">
+<img src="github.svg" width="45px" height="45px">
 </div>
