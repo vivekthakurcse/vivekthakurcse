@@ -11,7 +11,7 @@
 <img src="html-1.svg" width="40px" height="40px">
 <img src="css-3.svg" width="40px" height="40px">
 <img src="javascript-1.svg" width="40px" height="40px">
-<img src="Bootstrap_logo.svg.png" width="40px" height="40px">
+<img src="Bootstrap_logo.svg.png" width="45px" height="40px">
 </div>
 
 
