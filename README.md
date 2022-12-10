@@ -3,8 +3,10 @@
 <br>A nerdy boy who likes to know more about A.I , M.L and Web development.
 <br> IG : <a href="https://www.instagram.com/vivekthakur.exe/">@vivekthakur.exe</p>
 
-<div style="display:flex;justify-content:center;align-items:center;width:100%;height:200">
+<div style="display:flex;width:100%;height:200">
 <img height="200px" width="500" src="https://github-readme-stats.vercel.app/api/?username=vivekthakurcse&count_private=true&theme=tokyonight&showicons=true">
+</div>
+<div style="display:flex;width:100%;height:200">
 <img height="200px" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekthakurcse&langs_count=5&theme=tokyonight">
 </div>
 
