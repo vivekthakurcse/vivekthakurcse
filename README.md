@@ -35,4 +35,5 @@
 <img src="Git_icon.svg.png" width="40px" height="40px">
 <img src="github.svg" width="40px" height="40px">
 <img src="brave-browser-icon.svg" width="40px" height="40px">
+<img src="google-cloud-icon.svg" width="40pxx height="40px">
 </div>
