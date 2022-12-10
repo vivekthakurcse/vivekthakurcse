@@ -7,8 +7,9 @@
 
 <div style="display:flex"><h1>Languages & Skills</h1></div>
 
-<div style="display:flex; justify-content:center;align-items:center;width:200px;height:200px">
-<img src="Daco.png" width="80px" height="40px">
+<div style="display:flex; justify-content:center;align-items:center;width:220px;height:200px">
+<img src="html-1.svg" width="40px" height="40px">
+<img src="css-3.svg" width="40px" height="40px">
 <img src="js.png" width="40px" height="40px">
 <img src="Bootstrap_logo.svg.png" width="40px" height="40px">
 </div>
