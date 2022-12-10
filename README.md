@@ -24,7 +24,7 @@
 
 <div style="display:flex; justify-content:center; align-items:center;width:200px;height:200px">
 <img src="cpp.png" width="40px" height="40px">
-<img src="py.png" width="40px" height="40px">
+<img src="py.png" width="38px" height="38px">
 <img src="java_icon2.png" width="40px" height="40px">
 <img src="React-icon.svg" width="40px" height="40px">
 </div>
