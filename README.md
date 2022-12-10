@@ -1,7 +1,7 @@
 <h1>Heyyy ,  Myself Vivek</h1> 
 <p>I am a final year student of diploma in computer science and engineering at <b>Government Polytechnic College , Ranchi</b>.         
 Just a  nerdy boy who likes to know more about <b>A.I </b>, <b> M.L </b> and <b>Web development</b>.
-<br><b> Mail : <a href="mailto: vivekthakurcse20509@gmail.com"> Vivek
+<br><b> Mail : <a href="mailto: vivekthakurcse20509@gmail.com"> vivekthakurcse20509@gmail.com</a>
 <br><b> IG : <a href="https://www.instagram.com/vivekthakur.exe/">@vivekthakur.exe</b></p>
 
 
