@@ -43,5 +43,5 @@ Just a  nerdy boy who likes to know more about <b>A.I </b>, <b> M.L </b> and <b>
 
 <div style="display:flex">
   <img src="windows-1.svg" width="40px" height="40px">
-  <img src="nodejs.png" width="40px" height="40px">
+  <img src="nodejs.png" width="40px" height="42px">
  </div>
