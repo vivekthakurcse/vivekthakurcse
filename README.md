@@ -1,6 +1,6 @@
 <h1>Heyyy ,  Myself Vivek</h1> 
 <p>I am a final year student of diploma in computer science and engineering.         
-<br>A nerdy boy who likes to know more about A.I , M.L and Web development.
+<br>A nerdy boy who likes to know more about <b>A.I </b>, <b> M.L </b> and <b>Web development</b>.
 <br> IG : <a href="https://www.instagram.com/vivekthakur.exe/">@vivekthakur.exe</p>
 
 
