@@ -4,11 +4,13 @@
 <br> IG : <a href="https://www.instagram.com/vivekthakur.exe/">@vivekthakur.exe</p>
 
 <div style="display:flex;width:100%;height:200">
+<img height="200px" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekthakurcse&langs_count=5&theme=tokyonight">
+</div>
+
+<div style="display:flex;width:100%;height:200">
 <img height="200px" width="500" src="https://github-readme-stats.vercel.app/api/?username=vivekthakurcse&count_private=true&theme=tokyonight&showicons=true">
 </div>
-<div style="display:flex;width:100%;height:200">
-<img height="200px" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekthakurcse&langs_count=5&theme=tokyonight">
-</div>
+
 
 <div style="display:flex"><h1>Languages & Skills</h1></div>
 
