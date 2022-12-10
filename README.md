@@ -10,7 +10,7 @@
 <div style="display:flex; justify-content:center;align-items:center;width:220px;height:200px">
 <img src="html-1.svg" width="40px" height="40px">
 <img src="css-3.svg" width="40px" height="40px">
-<img src="js.png" width="40px" height="40px">
+<img src="javascript-1.svg" width="40px" height="40px">
 <img src="Bootstrap_logo.svg.png" width="40px" height="40px">
 </div>
 
