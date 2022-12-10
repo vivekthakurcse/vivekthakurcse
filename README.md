@@ -41,4 +41,5 @@
 
 <div style="display:flex">
   <img src="windows-1.svg" width="40px" height="40px">
+  <img src="chrome.png" width="40px" height="40px">
  </div>
