@@ -7,24 +7,23 @@
 
 <div style="display:flex"><h1>Languages & Skills</h1></div>
 
-<div style="display:flex">
-<img src="Daco.png" width="80px">
-<img src="js.png" width="45px">
-<img src="Bootstrap_logo.svg.png" width="50px">
+<div style="display:flex; justify-content:center;align-items:center;width:200px;height:200px">
+<img src="Daco.png" width="80px" height="40px">
+<img src="js.png" width="40px" height="40px">
+<img src="Bootstrap_logo.svg.png" width="40px" height="40px">
 </div>
 
 
-<div style="display:flex">
-<img src="cpp.png" width="43px" height="43px">
-<img src="py.png" width="43px" height="43px">
-<img src="React-icon.svg" width="43px">
-<img src="java.png" width="45px" height="45px">
+<div style="display:flex; justify-content:center; align-items:center;width:200px;height:200px">
+<img src="cpp.png" width="40px" height="40px">
+<img src="py.png" width="40px" height="40px">
+<img src="java_icon2.png" width="40px" height="40px">
+<img src="React-icon.svg" width="40px" height="40px">
 </div>
 
 <div style="display:flex"><h1>My Tools</h1></div>
 <div style="display:flex">
-<img src="VS_Code.png" width="45px">
-
-<img src="Git_icon.svg.png" width="45px" height="45px">
-<img src="github.svg" width="45px" height="45px">
+<img src="VS_Code.png" width="40px" height="40px">
+<img src="Git_icon.svg.png" width="40px" height="40px">
+<img src="github.svg" width="40px" height="40px">
 </div>
