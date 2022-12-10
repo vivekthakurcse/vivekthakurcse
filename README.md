@@ -3,7 +3,8 @@
 <br>A nerdy boy who likes to know more about A.I , M.L and Web development.
 <br> IG : <a href="https://www.instagram.com/vivekthakur.exe/">@vivekthakur.exe</p>
 
-
+<img height="300" width="500" src="https://github-readme-stats.vercel.app/api/?username=vivekthakurcse&count_private=true&theme=tokyonight&showicons=true">
+<img height="300" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekthakurcse&langs_count=5&theme=tokyonight">
 
 <div style="display:flex"><h1>Languages & Skills</h1></div>
 
