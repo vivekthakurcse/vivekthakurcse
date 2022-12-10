@@ -11,15 +11,14 @@
 <img src="Daco.png" width="80px">
 <img src="js.png" width="45px">
 <img src="Bootstrap_logo.svg.png" width="50px">
-<img src="React-icon.svg" width="50px">
 </div>
 
 
 <div style="display:flex">
-<img src="C_Programming_Language.svg" width="40px" height="40px">
-<img src="cpp.png" width="45px" height="45px">
+<img src="cpp.png" width="43px" height="43px">
+<img src="py.png" width="43px" height="43px">
+<img src="React-icon.svg" width="43px">
 <img src="java.png" width="45px" height="45px">
-<img src="py.png" width="45px" height="45px"s>
 </div>
 
 <div style="display:flex"><h1>My Tools</h1></div>
