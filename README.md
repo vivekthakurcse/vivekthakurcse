@@ -9,7 +9,7 @@ Just a  nerdy boy who likes to know more about <b>A.I </b>, <b> M.L </b> and <b>
 <img height="200px" width="500" src="https://github-readme-stats.vercel.app/api/?username=vivekthakurcse&count_private=true&theme=tokyonight&showicons=true">
 </div>
 <div style="display:flex;width:100%;height:200">
-<img height="200px" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekthakurcse&langs_count=5&theme=tokyonight">
+<img height="250px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekthakurcse&layout=compact&langs_count=6&theme=tokyonight">
 </div>
 
 
