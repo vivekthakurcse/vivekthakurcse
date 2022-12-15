@@ -13,7 +13,7 @@ Just a  nerdy boy who likes to know more about <b>A.I </b>, <b> M.L </b> and <b>
 </div>
 
 
-<div style="display:flex"><h1>Languages & Skills</h1></div>
+<div style="display:flex"><h1>Languages & Frameworks</h1></div>
 
 <div style="display:flex; justify-content:center;align-items:center;width:220px;height:200px">
 <img src="html-1.svg" width="40px" height="40px">
