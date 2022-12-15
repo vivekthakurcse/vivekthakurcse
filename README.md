@@ -30,7 +30,7 @@ Just a  nerdy boy who likes to know more about <b>A.I </b>, <b> M.L </b> and <b>
 <img src="React-icon.svg" width="40px" height="40px">
 </div>
 
-<div style="display:flex"><h1>My Tools</h1></div>
+<div style="display:flex"><h3>My Tools</h3></div>
 <div style="display:flex">
 <img src="VS_Code.png" width="40px" height="40px">
 <img src="Git_icon.svg.png" width="40px" height="40px">
