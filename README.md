@@ -23,6 +23,7 @@ Just a  nerdy boy who likes to know more about <b>A.I </b>, <b> M.L </b> and <b>
 
 
 <div style="display:flex; justify-content:center; align-items:center;width:200px;height:200px">
+<img src="c-program-icon.svg" width="37px" height="37px">
 <img src="cpp.png" width="40px" height="40px">
 <img src="py.png" width="38px" height="38px">
 <img src="java_icon2.png" width="40px" height="40px">
