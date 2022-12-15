@@ -19,9 +19,9 @@ Just a  nerdy boy who likes to know more about <b>A.I </b>, <b> M.L </b> and <b>
 <img src="html-1.svg" width="40px" height="40px">
 <img src="css-3.svg" width="40px" height="40px">
 <img src="javascript-1.svg" width="40px" height="40px">
-<img src="Bootstrap_logo.svg.png" width="45px" height="40px">
+
 <img src="React-icon.svg" width="40px" height="40px">
-  
+<img src="Bootstrap_logo.svg.png" width="45px" height="40px">
 </div>
 
 
