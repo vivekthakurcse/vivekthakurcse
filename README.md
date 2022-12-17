@@ -40,14 +40,8 @@ Just a  nerdy boy who likes to know more about <b>A.I </b>, <b> M.L </b> and <b>
 <img src="Git_icon.svg.png" width="40px" height="40px">
 <img src="github.svg" width="40px" height="40px">
 <img src="brave-browser-icon.svg" width="40px" height="40px">
-<img src="chrome.png" width="40px" height="40px">
 <img src="google-cloud-icon.svg" width="40px" height="40px">
-<img src="google-firebase-icon.svg" width="40px" height="40px">
 </div>
 
-<div style="display:flex">
-  <img src="windows-1.svg" width="40px" height="40px">
-  <img src="nodejs.png" width="40px" height="43px">
- </div>
-<h5> Mail : <a href="mailto: vivekthakurcse20509@gmail.com"> vivekthakurcse20509@gmail.com</a></h5>
+<h5 align="center"> Mail : <a href="mailto: vivekthakurcse20509@gmail.com"> vivekthakurcse20509@gmail.com</a></h5>
 <h5> IG : <a href="https://www.instagram.com/vivekthakur.exe/">@vivekthakur.exe</a></h5>
