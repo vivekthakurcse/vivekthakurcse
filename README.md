@@ -18,7 +18,7 @@ Just a  nerdy boy who likes to know more about <b>A.I </b>, <b> M.L </b> and <b>
 <div style="display:flex; justify-content:center;align-items:center;width:220px;height:200px">
 <img src="html-1.svg" width="40px" height="40px">
 <img src="css-3.png" width="40px" height="40px">
-<img src="javascript-1.svg" width="40px" height="40px">
+<img src="Javascript-logo.png" width="40px" height="40px">
 <img src="React-icon.svg" width="40px" height="40px">
 </div>
 
