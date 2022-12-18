@@ -25,8 +25,8 @@ Just a  nerdy boy who likes to know more about <b>A.I </b>, <b> M.L </b> and <b>
 
 <div style="display:flex; justify-content:center; align-items:center;width:200px;height:200px">
 <img src="cpp.png" width="40px" height="40px">
-<img src="java_icon2.png" width="40px" height="40px">
-<img src="py.png" width="40px" height="40px">
+<img src="java_new.png" width="40px" height="40px">
+<img src="py.png" width="37px" height="37px">
 </div>
 
 <h3>My Tools</h3>
