@@ -1,8 +1,10 @@
-<h1>Heyyy ,  Myself Vivek</h1> 
+<h1 align="right">Heyyy ,  Myself Vivek</h1> 
 <p>I am a final year student of diploma in computer science and engineering at <b>Government Polytechnic College , Ranchi</b>.         
 Just a  nerdy boy who likes to know more about <b>A.I </b>, <b> M.L </b> and <b>Web development</b>.</p>
 
 
+<h5> Mail : <a href="mailto: vivekthakurcse20509@gmail.com"> vivekthakurcse20509@gmail.com</a></h5>
+<h5> IG : <a href="https://www.instagram.com/vivekthakur.exe/">@vivekthakur.exe</a></h5>
 
 <div style="display:flex;width:100%;height:200">
 <img height="200px" width="500" src="https://github-readme-stats.vercel.app/api/?username=vivekthakurcse&count_private=true&theme=transparent&showicons=true">
@@ -35,6 +37,3 @@ Just a  nerdy boy who likes to know more about <b>A.I </b>, <b> M.L </b> and <b>
 <img src="brave-browser-icon.svg" width="40px" height="40px">
 <img src="google-cloud-icon.svg" width="40px" height="40px">
 </div>
-
-<h5 align="center"> Mail : <a href="mailto: vivekthakurcse20509@gmail.com"> vivekthakurcse20509@gmail.com</a></h5>
-<h5> IG : <a href="https://www.instagram.com/vivekthakur.exe/">@vivekthakur.exe</a></h5>
