@@ -1,4 +1,4 @@
-<h1 align="right">Heyyy ,  Myself Vivek</h1> 
+<h1>Heyyy ,  Myself Vivek</h1> 
 <p>I am a final year student of diploma in computer science and engineering at <b>Government Polytechnic College , Ranchi</b>.         
 Just a  nerdy boy who likes to know more about <b>A.I </b>, <b> M.L </b> and <b>Web development</b>.</p>
 
