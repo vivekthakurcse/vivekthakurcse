@@ -37,3 +37,5 @@ Just a  nerdy boy who likes to know more about <b>A.I </b>, <b> M.L </b> and <b>
 <img src="brave-browser-icon.svg" width="40px" height="40px">
 <img src="google-cloud-icon.svg" width="40px" height="40px">
 </div>
+
+<h2 align="right">Someone's Nobody... :)</h2>
