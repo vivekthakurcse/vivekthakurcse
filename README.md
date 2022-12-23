@@ -17,5 +17,6 @@
 <div style="display:flex">
       <img src="./Icons/HTML.png" height="43px" width="40px">
       <img src="./Icons/CSS.png" height="43px" width="40px">
+      <img src="./Icons/JS.png" height="40px" width="40px">
 </div>
 <h2 align="right">Someone's Nobody... :)</h2>
