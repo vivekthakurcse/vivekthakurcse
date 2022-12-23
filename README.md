@@ -1,6 +1,6 @@
 <h1>Heyyy ,  Myself Vivek</h1> 
 <p>I am a final year student of diploma in computer science and engineering at <b>Government Polytechnic College , Ranchi</b>.         
-<br>Just a  nerdy boy who likes to know more about <b>A.I </b>, <b> M.L </b> and <b>Web development</b>.</p>
+<br>Just a  nerdy boy who likes to know more about <b> Artifical Intelligence </b>,<b> Machine Learning </b> and <b>Web development</b>.</p>
 
 <div style="display:flex">
       <h5> Mail : <a href="mailto: vivekthakurcse20509@gmail.com"> vivekthakurcse20509@gmail.com</a></h5>
