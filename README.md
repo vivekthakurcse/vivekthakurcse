@@ -14,11 +14,4 @@
      <img height="240px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekthakurcse&layout=compact&langs_count=5&theme=transparent&hide=c++">
 </div>
 
-<div style="display:flex">
-      <img src="./Icons/HTML.png" height="43px" width="38px">
-      <img src="./Icons/CSS.png" height="43px" width="40px">
-      <img src="./Icons/JS.png" height="40px" width="40px">
-      <img src="./Icons/Java.png" height="40px" width="40px">
-      <img src="./Icons/Python.png" height="47px" width="47px">
-</div>
 <h2 align="right">Someone's Nobody... :)</h2>
