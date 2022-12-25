@@ -8,10 +8,10 @@
 </div>
 
 <div style="display:flex;width:100%;height:200">
-     <img height="200px" width="500" src="https://github-readme-stats.vercel.app/api/?username=vivekthakurcse&count_public=true&theme=tokyonight&hide_border=true&showicons=true&layout=compact">
+     <img height="200px" width="500" src="https://github-readme-stats.vercel.app/api/?username=vivekthakurcse&count_public=true&theme=react&hide_border=true&showicons=true&layout=compact">
 </div>
 <div style="display:flex;width:100%;height:200">
-     <img height="240px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekthakurcse&layout=compact&hide_border=true&langs_count=4&theme=tokyonight&hide=c++">
+     <img height="240px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekthakurcse&layout=compact&hide_border=true&langs_count=4&theme=react&hide=c++">
 </div>
 
 <h6 align="right">Someone's Nobody... :)</h6>
