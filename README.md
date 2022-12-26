@@ -9,7 +9,7 @@
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/?username=vivekthakurcse&count_public=true&theme=react&hide_border=true&showicons=true&layout=compact&height=200">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekthakurcse&layout=compact&hide_border=true&langs_count=5&theme=react>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekthakurcse&layout=compact&hide_border=true&langs_count=5&theme=react">
 
 
 <h6>Someone's Nobody... :)</h6>
