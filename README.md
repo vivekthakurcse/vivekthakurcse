@@ -7,7 +7,7 @@ Just a  nerdy boy who likes to know more about <b> Artifical Intelligence </b>,<
 <h5> IG : <a href="https://www.instagram.com/vivekthakur.exe/">@vivekthakur.exe</a></h5>
 
 <img src="https://github-readme-stats.vercel.app/api/?username=vivekthakurcse&count_public=true&theme=react&hide_border=true&showicons=true&layout=compact&height=200">
-<img width="400" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekthakurcse&layout=compact&hide_border=true&langs_count=4&theme=react">
+<img width="400" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekthakurcse&layout=compact&hide_border=true&langs_count=5&theme=react">
 
 
 <h6>Someone's Nobody... :)</h6>
