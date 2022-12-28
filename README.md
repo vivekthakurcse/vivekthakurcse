@@ -9,6 +9,6 @@ Just a  nerdy boy who likes to know more about <b> Artifical Intelligence </b>,<
 <img width="350px" height="auto" src="https://github-readme-stats.vercel.app/api/?username=vivekthakurcse&count_public=true&theme=react&hide_border=true&showicons=true&layout=compact&height=200">
 <img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekthakurcse&theme=react&hide_border=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekthakurcse&layout=compact&hide_border=true&langs_count=5&theme=react">
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vivekthakurcse&theme=react&hide_border=true">
 <h6>Someone's Nobody... :)</h6>
 
