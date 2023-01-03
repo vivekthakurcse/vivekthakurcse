@@ -1,5 +1,5 @@
-<div style="display:flex;margin:0;padding:0;height:150px;width:100%">
- <img width="100%" height=150px" src="meme.jpg">
+<div style="display:flex;margin:0;padding:0;height:200px;width:100%">
+  <img width="100%" height="auto" src="meme.jpg">
 </div>
 
 <h2>Heyyy ,  Myself Vivek</h2> 
